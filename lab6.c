@@ -1,3 +1,13 @@
+/*
+WAP to Implement Singly Linked List with following operations
+a) Create a linked list.
+b) Deletion of first element, specified element and last element
+in the list.
+c) Display the contents of the linked list.
+*/
+
+
+
 #include<stdio.h>
 #include<stdlib.h>
 struct node{
